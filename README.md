@@ -4,7 +4,7 @@ This code / setup allows to emulate the Regent lamp / module i²c control stream
 
 Both elements can be replaced by their emulation counterpart, they can even talk to each other.
 
-Terminology : in the code and in this doc as well, we sometimes call the i²c control module "the Genie" / "Genius" (obviously named from the Alladin's Tale in "Arabian Nights").
+Terminology : in the code and in this doc as well, we sometimes call the i²c control module "the Genie" / "Genius" (obviously named after the Alladin's Tale in "Arabian Nights").
 
 ## Physical setup
 
